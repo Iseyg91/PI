@@ -75,3 +75,4 @@ psutil
 motor
 pytz
 matplotlib
+audioop
