@@ -9,4 +9,4 @@ async def on_ready():
     print(f"Bot connecté en tant que {bot.user}")
 
 # Remplace "TON_TOKEN_ICI" par le token réel de ton bot
-bot.run("TON_TOKEN_ICI")
+bot.run("ETHERYA")
