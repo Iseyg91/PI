@@ -1,4 +1,5 @@
 import discord
+import audioop
 from discord.ext import commands, tasks
 from discord import app_commands, Embed, ButtonStyle, ui
 from discord.ui import Button, View, Select, Modal, TextInput, button
